@@ -11,10 +11,10 @@ Answer "How-to" Questions: The chatbot can respond to user queries about how to 
 Extract Information from Documentation: The chatbot can navigate through the official documentation of each platform and extract relevant instructions.
 Handle Variations in Questions: The chatbot handles variations in phrasing and terminology.
 
-# Data Sources
+# **Data Sources**
 The following official documentation is used to retrieve information:
 
-Segment Documentation: Segment Docs
-mParticle Documentation: mParticle Docs
-Lytics Documentation: Lytics Docs
-Zeotap Documentation: Zeotap Docs
+**Segment Documentation**: Segment Docs
+**mParticle Documentation**: mParticle Docs
+**Lytics Documentation**: Lytics Docs
+**Zeotap Documentation**: Zeotap Docs
