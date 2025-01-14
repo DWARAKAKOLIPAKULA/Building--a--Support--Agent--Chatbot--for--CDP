@@ -14,7 +14,7 @@ Handle Variations in Questions: The chatbot handles variations in phrasing and t
 # **Data Sources**
 The following official documentation is used to retrieve information:
 
-**Segment Documentation**: Segment Docs
-**mParticle Documentation**: mParticle Docs
-**Lytics Documentation**: Lytics Docs
-**Zeotap Documentation**: Zeotap Docs
+- **Segment Documentation**: Segment Docs
+- **mParticle Documentation**: mParticle Docs
+- **Lytics Documentation**: Lytics Docs
+- **Zeotap Documentation**: Zeotap Docs
